@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Now-the-Weather-master\\Now-the-Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\bg_sunny.jpg",
+        "source": "D:\\Now-the-Weather-master\\Now-the-Weather-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\bg_sunny.jpg"
+    },
+    {
+        "merged": "D:\\Now-the-Weather-master\\Now-the-Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\bg_cloudy.jpg",
+        "source": "D:\\Now-the-Weather-master\\Now-the-Weather-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\bg_cloudy.jpg"
+    },
+    {
+        "merged": "D:\\Now-the-Weather-master\\Now-the-Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\bg_lightening.JPG",
+        "source": "D:\\Now-the-Weather-master\\Now-the-Weather-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\bg_lightening.JPG"
+    },
+    {
+        "merged": "D:\\Now-the-Weather-master\\Now-the-Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\bg_snowy.jpg",
+        "source": "D:\\Now-the-Weather-master\\Now-the-Weather-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\bg_snowy.jpg"
+    },
+    {
+        "merged": "D:\\Now-the-Weather-master\\Now-the-Weather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\bg_rainy.jpg",
+        "source": "D:\\Now-the-Weather-master\\Now-the-Weather-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\bg_rainy.jpg"
+    }
+]

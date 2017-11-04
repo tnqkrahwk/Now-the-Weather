@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Now-the-Weather-master\Now-the-Weather-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="332e3e9901664dc534090687fadeb86ada6e811c">
+        <dex dex="D:\Now-the-Weather-master\Now-the-Weather-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1b24106f9c6b050017068b50c622c5087f9e15b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Now-the-Weather-master\Now-the-Weather-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Now-the-Weather-master\Now-the-Weather-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_05830dfdc0b7acc42495042ff83176dfd4c745fc\classes.dex" />
+    </item>
+
+</items>
